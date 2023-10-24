@@ -15,6 +15,7 @@ $ jupyter-notebook --version
 Para iniciar o Jupyter-Notebook, execute:
 
 $ jupyter-notebook
+
 Como desinstalar o Jupyter Notebook do Linux:
 
 $ sudo apt remove jupyter-notebook
