@@ -1,6 +1,6 @@
 # Gerador de Orçamento em Python
 Gerador de Orçamento PDF usando Python
-Instação no Linux baseado em distribuições Debian e Ubuntu!
+Instalação no Linux baseado em distribuições Debian e Ubuntu!
 
 No Terminal do Linux, execute:
 
